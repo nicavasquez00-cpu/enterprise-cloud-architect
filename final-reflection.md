@@ -2,10 +2,10 @@
 
 ## The Enterprise Cloud Architect
 
-This activity helped me understand how cloud-related technologies work together to deploy and manage an application. I learned how to use VirtualBox to run Ubuntu Server and Docker Compose to deploy WordPress and MySQL containers.
+Through this activity, we learned how different technologies work together to deploy and manage an application. As a group, we experienced using VirtualBox to run Ubuntu Server and Docker Compose to deploy WordPress and MySQL containers.
 
-I also learned the importance of network security through UFW firewall configuration and the use of ports for application access. Creating an architecture diagram helped me understand the relationships between the host machine, virtual machine, Docker Engine, WordPress, and MySQL.
+We also learned the importance of network security through UFW firewall configuration and how ports allow applications to communicate. Creating our architecture diagram helped us understand the connection between our host machine, virtual machine, Docker Engine, WordPress, and MySQL.
 
-One of the challenges I encountered was troubleshooting the backup script. This taught me that deployment is not only about making an application run but also about checking whether backup and recovery procedures work correctly.
+One of the challenges we encountered was troubleshooting our backup script. This experience taught us that deploying an application is not enough; we also need to ensure that our data can be backed up and recovered properly.
 
-Overall, this activity improved my understanding of virtualization, containerization, server management, and basic cloud architecture. I still need to complete and validate the backup automation and other remaining tasks.
+Overall, this activity improved our understanding of virtualization, containerization, server management, and cloud architecture. As a group, we realized the importance of teamwork, patience, and problem-solving when working with technical challenges. We still need to complete and validate our backup automation and other remaining tasks to make our project more reliable.
