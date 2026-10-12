@@ -216,7 +216,8 @@ Do not delete project volumes unless a verified backup exists and deletion is sp
 
 This screenshot shows the Docker volumes used for persistent WordPress and MySQL storage.
 
-![Figure 4. Docker persistent volumes](screenshots/R5-04_Docker-Volumes.png)
+![Figure 4. Docker persistent volumes](![Persistent Storage](./screenshots/4.%20Persistent%20Storage.png)
+)
 
 ## 8. Backup and Recovery
 
