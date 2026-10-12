@@ -86,7 +86,8 @@ If a container is not running, inspect its logs before attempting to restart it.
 
 This screenshot documents the status of the WordPress and MySQL containers.
 
-![Figure 2. Running Docker containers](![WordPress Website Deployment](![Security Configuration](./screenshots/3.%20Security%20Configuration.png)
+![Figure 2. Running Docker containers](![WordPress Website Deployment](![Security Configuration](![WordPress Website Deployment](./screenshots/2.%20Website%20Deployment.png)
+)
 )
 )
 
@@ -171,7 +172,8 @@ Only enable additional ports when required. Avoid exposing the MySQL port direct
 
 This screenshot documents the firewall status and configured rules.
 
-![Figure 3. UFW firewall configuration](screenshots/R5-03_UFW-Status.png)
+![Figure 3. UFW firewall configuration](![Security Configuration](./screenshots/3.%20Security%20Configuration.png)
+)
 
 ## 7. Persistent Storage
 
