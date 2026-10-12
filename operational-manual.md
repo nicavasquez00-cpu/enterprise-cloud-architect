@@ -86,7 +86,8 @@ If a container is not running, inspect its logs before attempting to restart it.
 
 This screenshot documents the status of the WordPress and MySQL containers.
 
-![Figure 2. Running Docker containers](![WordPress Website Deployment](./screenshots/2.%20Website%20Deployment.png)
+![Figure 2. Running Docker containers](![WordPress Website Deployment](![Security Configuration](./screenshots/3.%20Security%20Configuration.png)
+)
 )
 
 ## 5. Managing Docker Compose
