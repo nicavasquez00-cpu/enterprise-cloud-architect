@@ -58,7 +58,8 @@ The address uses port forwarding configured for the WordPress service.
 
 This screenshot shows the deployed WordPress website accessed through the host machine's web browser.
 
-![Figure 1. WordPress website running on the host browser](screenshots/R5-02_WordPress-Website.png)
+![Figure 1. WordPress website running on the host browser](![Deployment Verification](./screenshots/1.%20Deployment%20Verification.png)
+)
 
 ## 4. Checking Docker Containers
 
