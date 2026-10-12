@@ -354,7 +354,8 @@ It should contain:
 
 This screenshot should show the GitHub repository and its project documentation files.
 
-![Figure 5. GitHub documentation repository](screenshots/R5-05_GitHub-Documentation.png)
+![Figure 5. GitHub documentation repository](![Documentation on GitHub](./screenshots/5.%20Documentation%20on%20GitHub.png)
+)
 
 ## 12. Operational Status and Limitations
 
