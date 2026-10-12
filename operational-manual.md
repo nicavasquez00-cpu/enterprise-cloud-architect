@@ -6,10 +6,15 @@ CCM101 – Cloud Computing
 Enterprise Cloud Architect – Operational Manual
 
 Project: Enterprise Cloud Architect
+
 Application Stack: WordPress + MySQL
+
 Prepared by: Nica Vasquez | Justin Carl Anton | Joven Catungal | Kassandra Distor | Alleah Asenero
+
 Section: BSIT 4H
+
 Instructor: Jenkielyn C. Torres
+
 Date: October 12, 2026
 
 ## 1. Project Overview
